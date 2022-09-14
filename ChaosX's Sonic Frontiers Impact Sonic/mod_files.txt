@@ -1,7 +1,1 @@
-add main/bb2/Title.ar.00
-add main/bb2/Title.ar.01
-add main/bb2/Title.ar.02
-add main/bb2/Title.ar.03
-add main/bb2/Title.ar.04
-add main/bb2/Title.arl
 add mod.ini
